@@ -12,7 +12,7 @@ An interactive dashboard for sales data analysis and forecasting using Streamlit
 - Fields Used: `ORDERDATE`, `SALES`, `QUANTITYORDERED`, `PRICEEACH`, `TERRITORY`, `PRODUCTLINE`
 ## 🛠️ Installation
 1. Clone the repository:
-git clone [https://github.com/YOUR_USERNAME/sales-forecast-dashboard.git](https://github.com/Indranil1105/Sales-Forecasting-and-Analytics-Dashboard)
+git clone [https://github.com/Indranil1105/Sales-Forecasting-and-Analytics-Dashboard.git](https://github.com/Indranil1105/Sales-Forecasting-and-Analytics-Dashboard)
 cd sales-forecast-dashboard
 2. Install dependencies:
 pip install -r requirements.txt
@@ -30,7 +30,7 @@ Open [http://localhost:8506](http://localhost:8506) in your browser to use the d
 - scikit-learn
 - plotly
 ## 👤 Author
-Indranil Mondal[github](https://github.com/Indranil1105)
+Indranil Mondal[(https://github.com/Indranil1105)](https://github.com/Indranil1105)
 
 
 *Transform your sales data into actionable insights with this interactive analytics and forecasting tool!*
